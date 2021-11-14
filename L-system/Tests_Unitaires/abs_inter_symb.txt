@@ -1,0 +1,7 @@
+axiome = "---ac"
+regles =	
+	 "a=aa+[+a[+a]-a+a]-[-a-[a]+a]"	
+	"c=a+c"
+angle = 30
+taille = 10
+niveau = 4 

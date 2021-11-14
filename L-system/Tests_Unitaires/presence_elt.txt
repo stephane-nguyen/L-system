@@ -1,0 +1,5 @@
+axiome = "ose"
+niVeau = 0
+angLe = 2
+taille = 5
+

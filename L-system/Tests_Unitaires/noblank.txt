@@ -1,0 +1,8 @@
+axiome = "ose"
+
+niveau = 0
+angle = "aa"
+taille = 5
+RegleS = 						
+	"a = b+a"
+	"b = b++"

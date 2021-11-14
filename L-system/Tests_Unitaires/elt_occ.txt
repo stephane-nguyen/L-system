@@ -1,0 +1,8 @@
+axiome = "ose"
+Axiome = "pos"
+niVeau = 0
+angLe = 2.1
+taille = 5
+RegleS = 						
+	"a = b+a"
+	"b = b++"

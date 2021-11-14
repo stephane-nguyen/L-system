@@ -1,0 +1,8 @@
+axiome = "okok"
+niveau = 0
+angle = 2.2
+taille = 5
+RegleS = "a = b+a"
+
+
+
