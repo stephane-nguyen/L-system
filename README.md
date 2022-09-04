@@ -1,8 +1,14 @@
 # school-project-L-system
-Le L-system est un programme inventé par le biologiste A. Lindenmayer. Il permet de modéliser la croissance des organisme végétaux. La graine contenant déjà en elle la forme finale de la plante. 
 
-Le L-system  est composé d’un axiome, représentant la forme de la première plante, et de règles de croissances, représentant les différentes étapes de développement dont la plante a besoin pour atteindre sa forme finale. Ils sont tous les deux représentés par des suites de symboles plus ou moins complexes. 
+The L-system is a program invented by the biologist A. Lindenmayer. It makes it possible to model the growth of plant organisms. The seed already contains within it the final form of the plant.
 
-Dans le cas de ce projet, notre objectif était de réaliser un programme en langage Python permettant d’afficher l’image finale du L-system. 
+It is composed of
+-an axiom: the shape of the first plant
+-growth rules: the different stages of development that the plant needs to reach its final shape
+
+They are both represented by sequences of more or less complex symbols.
+
+Our goal was to create a program in Python to display thanks to the turtle library the different steps of the L-system from the axiom to the final form.
+
 
 
